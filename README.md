@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, tech, web dev, web design, fitness, sports, movies, music, coaching, analytics.
 - 🌱 I’m currently learning about AI & automation functionality.
 - 💞️ I’m looking to collaborate on anything javascript, HTML, or CSS related.
-- ⚡ Fun fact: I have been coding for 11 years.
+- ⚡ Fun fact: I have been coding for 11 years & have worked in professional sports, travel, higher education, risk & consulting, healthcare, health & wellness, & non-profits
 
 <!---
 jbehmke/jbehmke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
